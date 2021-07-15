@@ -41,6 +41,9 @@ WeChat Official Accounts: 0th3rs安全团队
 + A Context-Sensitive and Scalable Method for Restructured Cloning Vulnerability Detection in Ethereum Smart Contracts (submitted)
 + An Automatic Data Augmentation Method for Vulnerability Detection (submitted)
 
+### Presentation
++ 2021 雷神众测「hackingDay· 上海站」- 让智能合约脆弱性检测更智能
+
 ### Joined Team
 + NeSE
 + 0th3rs
