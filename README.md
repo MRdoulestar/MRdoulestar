@@ -12,6 +12,7 @@ WeChat Official Accounts: 0th3rs安全团队
 
 ### Vulnerability
 #### CNVD
++ CNVD-2021-51498 zbintel
 + CNVD-2021-26064 ECSHOP
 + CNVD-2021-24440 PHPWind
 + CNVD-2021-24501 PHPWind
