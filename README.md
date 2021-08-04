@@ -29,6 +29,15 @@ WeChat Official Accounts: 0th3rs安全团队
 + CNVD-2019-07692 baigo CMS
 + CNVD-2019-03212
 #### CVE
++ CVE-2021-34273 (Smart Contract)
++ CVE-2021-34272 (Smart Contract)
++ CVE-2021-34270 (Smart Contract)
++ CVE-2021-33403 (Smart Contract)
++ CVE-2020-19305
++ CVE-2020-19304
++ CVE-2020-19303
++ CVE-2020-19302
++ CVE-2020-19301
 + CVE-2019-9015
 + CVE-2019-9016
 + CVE-2019-9226
