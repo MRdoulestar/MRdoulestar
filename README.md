@@ -49,7 +49,7 @@ WeChat Official Accounts: 0th3rs安全团队
 ### Research Paper
 + Restructured Cloning Vulnerability Detection Based on Function Semantic Reserving and Reiteration Screening, The 25th European Symposium on Research in Computer Security (ESORICS 2020)
 + DeeSCVHunter: A Deep Learning-Based Framework for Smart Contract Vulnerability Detection, the 2021 International Joint Conference on Neural Networks (IJCNN 2021)
-+ A Context-Sensitive and Scalable Method for Restructured Cloning Vulnerability Detection in Ethereum Smart Contracts (submitted)
++ A Context-Sensitive System for Restructured Cloning Vulnerability Detection in Solidity Smart Contract (Journal of Cyber Security - Accepted)
 + An Automatic Data Augmentation Method for Vulnerability Detection (submitted)
 
 ### Presentation
