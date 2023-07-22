@@ -1,11 +1,7 @@
 ### About
-ID: yunsle
-
 Blog: https://www.yourhome.ren/
 
-Research Interests: Web Security, Program Analyse, Smart Contract, Deep Learning
-
-WeChat Official Accounts: 0th3rs安全团队
+Research Interests🤔: Web Security, Red Team, Cybersecurity + AI
 
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MRdoulestar&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,15 +45,15 @@ WeChat Official Accounts: 0th3rs安全团队
 ### Research Paper
 + Restructured Cloning Vulnerability Detection Based on Function Semantic Reserving and Reiteration Screening, The 25th European Symposium on Research in Computer Security (ESORICS 2020)
 + DeeSCVHunter: A Deep Learning-Based Framework for Smart Contract Vulnerability Detection, the 2021 International Joint Conference on Neural Networks (IJCNN 2021)
-+ A Context-Sensitive System for Restructured Cloning Vulnerability Detection in Solidity Smart Contract (Journal of Cyber Security - Accepted)
-+ An Automatic Data Augmentation Method for Vulnerability Detection (submitted)
++ A Context-Sensitive System for Restructured Cloning Vulnerability Detection in Solidity Smart Contract (Journal of Cyber Security)
++ An Automatic Data Augmentation Method for Vulnerability Detection (pendding)
 
 ### Presentation
 + 2021 雷神众测「hackingDay· 上海站」- 让智能合约脆弱性检测更智能
 
 ### Joined Team
-+ NeSE
 + 0th3rs
++ ~~NeSE~~
 
 <!--
 **MRdoulestar/MRdoulestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
